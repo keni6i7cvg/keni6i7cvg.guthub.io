@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+body{
+    margin: 0;
+}
+header{
+    background: #eeeeee;
+}
+.headerInner{
+    width: 650px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mainInner{
+    width: 650px;
+    margin: auto;
+}
+footer{
+    background: #eeeeee;
+}
+
+.footerInner{
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+}
